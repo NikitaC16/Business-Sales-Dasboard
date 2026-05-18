@@ -45,7 +45,7 @@ The dashboard helps identify:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
